@@ -1,1 +1,1 @@
-# kano-api-client-plugin-populate
+# plugin-populate for kano-api-client
